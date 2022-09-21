@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fakhita123": {
+      "hosting": {
+        "final": [
+          "fakhita123"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fakhita123"
+  }
+}
